@@ -1,0 +1,424 @@
+﻿Example ID,DOI,Color,Color_P,citric acid,urea, ethylenediamine,HCl,ammonium,NaOH,boric acid ,sodium thiosulfate,KOH,formic acid ,Reaction method,Solvent,pH,Reaction temperatrue( C ),reaction time (min),purification method,particle size (TEM),Lattice obrserved or not,absorption,Main Peak (in water)
+1,10.1016/j.snb.2018.09.031,blue,blue,1,0,0,0,0,0,0,0,0,0,solvothermal treatment,"ethanol, formamide",acidic,423.15,300,centrifuge,4.5,Y,435,450
+2,10.1039/c9ra04241e,blue,blue,0.156,1,0,0.003,0,0,0,0,0,0,hydrothermal treatment,water,acidic,433.15,240,centrifuge,2.81,Y,493,445
+3,10.1007/s12274-019-2569-3,blue,blue,1,0,0,0,0,0,0,0,0,0,solvothermal treatment,ethanol,acidic,473.15,420,"filter, dialysis",4,N,370,440
+4,10.1016/j.jcis.2018.03.021,blue,blue,0.0825,0,0,0,1,0,0,0,0,0,microwave,water,neutral,473.15,7,centrifuge,1.8,Y,285,450
+5,10.1039/C6RA20562C,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,433.15,360,dialysis,1.62,N,245,415
+6,10.1002/adma.201704740,blue,blue,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,413.15,720,centrifuge,3.96,Y,350,440
+7,10.1002/adma.201704740,green,green,0.3,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,720,centrifuge,4.12,Y,410,540
+8,10.1002/adma.201704740,red,red,0.75,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,473.15,720,centrifuge,4.34,Y,473,600
+9,10.1021/acsnano.7b06399,blue,multicolor,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,720,column,2,N,340,460
+10,10.1021/acsnano.7b06399,green,green,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,720,column,2.5,Y,340,510
+11,10.1021/acsnano.7b06399,yellow,yellow,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,720,column,2,N,440,550
+12,10.1021/acsnano.7b06399,red,red,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,720,column,2.3,Y,440,630
+13,10.1021/acs.chemmater.6b03695,red,red,1,0,0,0,0,0,0,0,0,0,microwave-assisted solvothermal,formamide,acidic,413.15,120,filter,4,Y,454,632
+14,10.1039/C6NR02701F,blue,blue,1,0,0,0,0,0,0,0,0,0,pyrolysis,none,acidic,443.15,90,"filter, centrifuge",12,N,200,464
+15,10.1002/anie.201301114,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,180,centrifuge,7,Y,300,435
+16,10.1063/1.4928028,green,green,0.333333333,1,0,0,0,0,0,0,0,0,pyrolysis,water,neutral,523.15,60,dialysis,11.4,Y,337,514
+17,10.1002/anie.201206791,green,green,0.3,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,centrifuge,3,Y,338,540
+18,10.1039/c3nr04402e ,multicolor,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"centrifuge, wash",3.1,Y,476,435
+19,10.1039/c2cc33869f ,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,water,acidic,373.15,3,"dialysis, wash",4,N,281,443
+20,10.1016/j.bios.2014.02.061,green,green,0.416666667,0,0,0,0,1,0,0,0,0,pyrolysis,none,basic,473.15,30,centrifuge,4.2,Y,360,458
+21,10.1038/srep04976,blue,blue,1,0.625,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,513.15,360,centrifuge,5,N,285,410
+22,10.1038/srep04976,blue,blue,1,0.625,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,360,centrifuge,5,N,285,440
+23,10.1007/s10895-016-1867-3,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"centrifuge, wash",4.4,Y,334,443
+24,10.1038/srep05294,blue,blue,0.333333333,0,0,0,0,1,0,0,0,0,hydrothermal treatment,water,basic,433.15,240,"centrifuge, wash",2.8,Y,310,440
+25,10.1038/srep05294,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,120,"centrifuge, wash",2.45,Y,287,440
+26,10.1038/srep05294,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"centrifuge, wash",2.58,Y,287,440
+27,10.1038/srep05294,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,360,"centrifuge, wash",4.3,Y,287,440
+28,10.1038/srep05294,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,480,"centrifuge, wash",5.26,Y,287,440
+29,10.1038/srep05294,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,1440,"centrifuge, wash",7.11,Y,287,440
+30,10.1039/c5ay01715g,blue,blue,0.1,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,1440,"filter, dialysis",2,N,330,420
+31,10.1016/j.carbon.2014.11.032,blue,blue,0.3125,1,0,0,0,0,0.971875,0,0,0,microwave,water,acidic,473.15,4,"dialysis, wash",3.7,Y,350,450
+32,10.1002/adom.201700416,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"dialysis, wash",1.7,Y,343,449
+33,10.1002/adom.201700416,green,green,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,glycerol,neutral,433.15,240,"dialysis, wash",2.8,Y,378,548
+34,10.1002/adom.201700416,orange,orange,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,240,"dialysis, wash",4.5,Y,446,598
+35,10.1002/adom.201700416,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"dialysis, wash",4,Y,341,450
+36,10.1002/adom.201700416,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,"water, glycerol",neutral,433.15,240,"dialysis, wash",4,Y,335,463
+37,10.1002/adom.201700416,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,"water, glycerol",neutral,433.15,240,"dialysis, wash",4,Y,388,495
+38,10.1002/adom.201700416,green,green,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,glycerol,neutral,433.15,240,"dialysis, wash",4,Y,377,550
+39,10.1002/adom.201700416,yellow,yellow,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,"glycerol, DMF",neutral,433.15,240,"dialysis, wash",4,Y,434,580
+40,10.1002/adom.201700416,orange,orange,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,"glycerol, DMF",neutral,433.15,240,"dialysis, wash",4,Y,432,590
+41,10.1002/adom.201700416,red,orange,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,240,"dialysis, wash",4,Y,445,600
+42,10.1016/j.enconman.2017.10.010,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,none,2,Y,370,464
+43,10.1016/j.aca.2017.01.007,blue,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,368,454
+44,10.1016/j.aca.2017.01.007,blue,blue,0.313092979,1,0,0,0,0,0,0.189753321,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,335,451
+45,10.1016/j.aca.2017.01.007,blue,blue,0.311787072,1,0,0,0,0,0,0.380228137,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,333,447
+46,10.1016/j.aca.2017.01.007,blue,blue,0.310606061,1,0,0,0,0,0,0.757575758,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,327,439
+47,10.1016/j.aca.2017.01.007,blue,blue,0.27,0.88,0,0,0,0,0,1,0,0,microwave,water,neutral,473.15,5,centrifuge,2.49,N,387,444
+48,10.1088/1361-6528/aab9d6,multicolor,multicolor,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,453.15,480,"centrifuge, wash",2.5,Y,393,459
+49,10.3762/bjnano.7.182,blue,blue,1,1,0,0,0,0,0,0,0,0,conventional heating,none,neutral,433.15,120,centrifuge,4,N,338,435
+50,10.3762/bjnano.7.182,blue,blue,0.5,1,0,0,0,0,0,0,0,0,conventional heating,none,neutral,433.15,120,centrifuge,4,N,379,451
+51,10.3762/bjnano.7.182,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,conventional heating,none,neutral,433.15,120,centrifuge,4,N,367,451
+52,10.3762/bjnano.7.182,blue,blue,0.25,1,0,0,0,0,0,0,0,0,conventional heating,none,neutral,433.15,120,centrifuge,4,N,372,451
+53,10.3762/bjnano.7.182,blue,blue,0.2,1,0,0,0,0,0,0,0,0,conventional heating,none,neutral,433.15,120,centrifuge,4,N,372,456
+54,10.1039/c9tc03481a,blue,green,0.0390625,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,2160,dialysis,5,Y,316,484
+55,10.1039/c9tc03481a,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,2160,dialysis,5,Y,370,460
+56,10.1088/1361-6528/aacad0,blue,blue,0.121506683,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,720,dialysis,5,Y,315,445
+57,10.1007/s10895-018-2213-8,blue,blue,0.166666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"filter, dialysis",4,Y,326,420
+58,10.1007/s12274-017-1838-2,multicolor,multicolor,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,glycerol,neutral,453.15,1440,"filter, dialysis",7,N,370,487
+59,10.1007/s12274-017-1838-2,blue,blue,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,glycerol,neutral,453.15,1440,"filter, dialysis, chromatography",2.5,Y,295,435
+60,10.1007/s12274-017-1838-2,blue,blue,0.1,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,1440,"filter, dialysis",5,N,370,428
+61,10.1007/s12274-017-1838-2,blue,blue,0.1,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,1440,"filter, dialysis, chromatography",2,N,370,420
+62,10.1021/acssuschemeng.8b01618,blue,blue,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,413.15,720,"centrifuge, wash, precipitate",3.97,Y,340,435
+63,10.1021/acssuschemeng.8b01618,green,green,0.3,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,720,"centrifuge, wash, precipitate",4.02,Y,405,524
+64,10.1021/acssuschemeng.8b01618,red,red,0.75,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,473.15,720,"centrifuge, wash, precipitate",4.13,Y,460,574
+65,10.1016/j.ijms.2019.05.004,green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,"filter, centrifuge",4,N,338,522
+66,10.1016/j.jclepro.2020.120080,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,120,centrifuge,4,N,370,460
+67,10.1016/j.jclepro.2020.120080,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,240,centrifuge,4,N,370,481
+68,10.1016/j.jclepro.2020.120080,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,120,centrifuge,4,N,370,436
+69,10.1016/j.jclepro.2020.120080,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,water,acidic,473.15,5,centrifuge,4,N,370,456
+70,10.1016/j.jclepro.2020.120080,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,water,acidic,473.15,10,centrifuge,4,N,370,454
+71,10.1016/j.jclepro.2020.120080,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,370,538
+72,10.1007/s10853-018-2955-3,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",3,N,317,554
+73,10.1021/acsanm.8b00497,blue,blue,1,1,0,0,0,0,0,0,0,0,microwave-assisted hydrothermal,water,neutral,413.15,30,filter,8,N,388,445
+74,10.1021/acsanm.8b00497,blue,blue,0.2,1,0,0,0,0,0,0,0,0,microwave-assisted hydrothermal,water,neutral,413.15,240,filter,7,N,422,444
+75,10.1039/c9cp03730f,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,6.5,N,318,540
+76,10.1039/c9cp03730f,blue,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",6.5,N,332,475
+77,10.1002/slct.201803726,blue-green,multicolor,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,"filter, centrifuge, dialysis",4.452,Y,299,500
+78,10.1002/slct.201803716,blue,blue,1,0.5,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,360,"filter, centrifuge, dialysis",8,Y,320,430
+79,10.1016/j.jtice.2019.04.012,blue,blue,0.934579439,1,0,0,0,0,0,0,0,0,microwave,water,neutral,523.15,5,"sieve, centrifuge",4,Y,370,444
+80,10.1016/j.jtice.2019.04.012,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,523.15,5,"sieve, centrifuge",4,Y,370,502
+81,10.1088/2053-1591/ab0c42,blue,blue,0.09380863,1,0,0,0,0,0,0,0,0,gaseous detonation,"hydrogen, oxygen gas",neutral,358.15,0.000833333,none,9.1,N,338,442
+82,10.1088/2053-1591/aa6075,blue-green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,523.15,90,none,4,N,370,511
+83,10.1021/acs.jpca.9b04568,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,"filter, centrifuge, heat, disperse in water",4,Y,337,459
+84,10.3390/ma13030504,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,"centrifuge, dialysis",4,N,318,519
+85,10.3390/ma13030504,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,DMF,acidic,426.15,10,"centrifuge, dialysis",4,N,293,443
+86,10.3390/ma13030504,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,acetonitrile,acidic,354.15,10,"centrifuge, dialysis",4,N,293,442
+87,10.3390/ma13030504,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,pyridine,acidic,388.35,10,"centrifuge, dialysis",4,N,293,433
+88,10.3390/ma13030504,blue,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,"centrifuge, dialysis",4,N,322,459
+89,10.3390/ma13030504,blue,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,"centrifuge, dialysis",4,N,322,458
+90,10.1088/1742-6596/1204/1/012093,green,green,0.156494523,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,15,none,10,N,367,521
+91,10.1088/1742-6596/1204/1/012093,green,green,0.156494523,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,10,N,368,523
+92,10.1088/1742-6596/1204/1/012093,green,green,0.156494523,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,45,none,10,N,369,522
+93,10.1088/2053-1591/ab3680,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+94,10.1088/2053-1591/ab3680,green,green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+95,10.1088/2053-1591/ab3680,green,green,0.208333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+96,10.1088/2053-1591/ab3680,green,green,0.15625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+97,10.1088/2053-1591/ab3680,green,green,0.125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+98,10.1088/2053-1591/ab3680,green,green,0.104166667,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+99,10.1088/2053-1591/ab3680,green,green,0.089285714,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,370,590
+100,10.1016/j.diamond.2018.12.003,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,gaseous detonation,none,neutral,358.15,0.000833333,none,5.7,N,335,430
+101,10.1039/c8ra09742a,blue-green,blue-green,0.469483568,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,300,filter,4,N,411,506
+102,10.3390/mi10090568,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",15,N,285,444
+103,10.3390/app9010107,blue,blue,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,"filter, centrifuge, dialysis",7.5,N,370,439
+104,10.1039/c7ra10471e,blue,blue,0.469483568,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,6.6,Y,342,455
+105,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,90,filter,4,Y,370,440
+106,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,90,filter,4,Y,370,440
+107,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,90,filter,4,Y,370,440
+108,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,4,Y,370,440
+109,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,90,filter,4,Y,370,440
+110,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,90,filter,4,Y,370,440
+111,10.1039/c7ra10471e,blue,blue,0.934579439,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,4,Y,370,440
+112,10.1039/c7ra10471e,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,4,Y,370,440
+113,10.1039/c7ra10471e,blue,blue,0.208333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,4,Y,370,440
+114,10.1039/c7ra10471e,blue,blue,0.104166667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,90,filter,4,Y,370,440
+115,10.1016/j.jlumin.2019.116774,blue,blue,0.934579439,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,20,"sieve, disperse in water, centrifuge",7.5,Y,385,453
+116,10.1016/j.jlumin.2019.116774,blue,blue,0.625,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,20,"sieve, disperse in water, centrifuge",7.5,Y,385,456
+117,10.1016/j.jlumin.2019.116774,blue-green,green,0.3125,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,20,"sieve, disperse in water, centrifuge",7.5,Y,340,507
+118,10.1016/j.jlumin.2019.116774,green,green,0.15625,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,20,"sieve, disperse in water, centrifuge",7.5,Y,340,517
+119,10.1016/j.jlumin.2019.116774,green,green,0.104166667,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,20,"sieve, disperse in water, centrifuge",7.5,Y,340,505
+120,10.1007/s11595-018-2004-8,green,green,0.416666667,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,"filter, centrifuge",4,Y,370,551
+121,10.1007/s11595-018-2004-8,green,green,0.352112676,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,"filter, centrifuge",4,Y,370,552
+122,10.1007/s11595-018-2004-8,green,green,0.234741784,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,"filter, centrifuge",4,Y,370,553
+123,10.1007/s11595-018-2004-8,green,green,0.15625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,"filter, centrifuge",4,Y,370,554
+124,10.1007/s11595-018-2004-8,green,green,0.234741784,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,"filter, centrifuge",4,Y,370,553
+125,10.1007/s11595-018-2004-8,green,green,0.234741784,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",4,Y,370,553
+126,10.1038/s41598-019-47168-7,multicolor,multicolor,0.104166667,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge, dialysis",2.4,Y,337,514
+127,10.1038/lsa.2016.120,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,wash,2.76,Y,340,443
+128,10.1002/cctc.202000410,blue-green,blue-green,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,480,"centrifuge, dialysis",4,N,322,512
+129,10.1021/acsanm.9b01080,multicolor,red,0.5,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,473.15,720,centrifuge,6.3,Y,463,617
+130,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,1080,centrifuge,4,N,370,450
+131,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,443.15,1080,centrifuge,4,N,370,451
+132,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,1080,centrifuge,4,N,370,453
+133,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,450
+134,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,1080,centrifuge,4,N,370,451
+135,10.2298/TSCI1904453S,blue,blue,1,0.833333333,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,448
+136,10.2298/TSCI1904453S,blue,blue,0.6,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,442
+137,10.2298/TSCI1904453S,blue,blue,0.4,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,444
+138,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,443
+139,10.2298/TSCI1904453S,blue,blue,0.24,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,447
+140,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,300,centrifuge,4,N,370,452
+141,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,480,centrifuge,4,N,370,465
+142,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,720,centrifuge,4,N,370,452
+143,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,456
+144,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1320,centrifuge,4,N,370,458
+145,10.2298/TSCI1904453S,blue,blue,0.075,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,446
+146,10.2298/TSCI1904453S,blue,blue,0.15,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,449
+147,10.2298/TSCI1904453S,blue,blue,0.225,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,450
+148,10.2298/TSCI1904453S,blue,blue,0.3,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,449
+149,10.2298/TSCI1904453S,blue,blue,0.375,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,463.15,1080,centrifuge,4,N,370,449
+150,10.1039/c9qm00659a,green,green,0.15625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,none,5,Y,369,547
+151,10.1088/1742-6596/739/1/012010,green,green,0.0625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,none,4,N,370,524
+152,10.1088/1742-6596/739/1/012010,green,green,0.145985401,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,none,4,N,370,541
+153,10.1088/1742-6596/739/1/012010,blue-green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,none,4,N,370,486
+154,10.1088/1742-6596/739/1/012010,blue-green,blue-green,0.520833333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,none,4,N,370,510
+155,10.1007/s00604-016-1807-6,green,green,0.052110474,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,2.32,N,369,522
+156,10.1007/s00604-016-1807-6,green,green,0.104166667,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,4.02,N,369,521
+157,10.1007/s00604-016-1807-6,blue-green,blue,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,3.78,N,369,451
+158,10.1007/s00604-016-1807-6,blue-green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,8.13,N,368,453
+159,10.1007/s00604-016-1807-6,blue,blue,1,0.53,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,332,420
+160,10.1007/s00604-016-1807-6,blue,blue,0.934579439,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,3.3,N,332,419
+161,10.1186/s11671-017-2214-6,blue,blue,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,240,"centrifuge, dialysis, wash",5,Y,498,450
+162,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4.8,N,287,440
+163,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,240,dialysis,4,N,287,441
+164,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,dialysis,4,N,287,439
+165,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,240,dialysis,4,N,287,437
+166,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,240,dialysis,4,N,338,434
+167,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,120,dialysis,4,N,287,438
+168,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,360,dialysis,4,N,287,436
+169,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,480,dialysis,4,N,287,439
+170,10.1039/c5ra04653j,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,600,dialysis,4,N,287,438
+171,10.1039/c5ra04653j,blue,blue,1,0.91,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,440
+172,10.1039/c5ra04653j,blue,blue,0.729927007,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,438
+173,10.1039/c5ra04653j,blue,blue,0.546448087,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,439
+174,10.1039/c5ra04653j,blue,blue,0.273224044,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,440
+175,10.1039/c5ra04653j,blue,blue,0.218818381,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,439
+176,10.1039/c5ra04653j,blue,blue,0.136798906,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,dialysis,4,N,287,439
+177,10.1002/chem.202000763,green,green,0.02602811,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,centrifuge,1.6,Y,390,541
+178,10.1016/j.materresbull.2020.110886,green,green,0.268096515,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,none,5,Y,425,590
+179,10.1002/jccs.201900124,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave-assisted hydrothermal,water,neutral,453.15,20,"centrifuge, wash",4,N,291,445
+180,10.1002/jccs.201900124,blue,blue,0.333333333,0,0,0,0,1,0,0,0,0,microwave-assisted hydrothermal,water,basic,453.15,20,"centrifuge, wash",4,N,291,440
+181,10.1039/c8nr03453b,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,"filter, dialysis",3,N,336,440
+182,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,360,458
+183,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,361,459
+184,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,370,461
+185,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,358,462
+186,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,356,464
+187,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,355,469
+188,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,4,N,352,471
+189,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,120,none,4,N,312,461
+190,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,none,2,N,360,460
+191,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,120,none,4,N,354,470
+192,10.1039/c6nj00009f,blue,blue,0.016666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,120,none,16,N,351,470
+193,10.1016/j.jallcom.2017.01.124,multicolor,blue,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,473.15,360,centrifuge,2.5,Y,374,447
+194,10.1007/s10895-019-02430-z,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,720,centrifuge,1.5,N,288,400
+195,10.1039/c9pp00420c,blue-green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,"filter, centrifuge",4,N,338,510
+196,10.1063/5.0004595,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,371,532
+197,10.1063/5.0004595,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,6,N,371,532
+198,10.1063/5.0004595,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,371,532
+199,10.1063/5.0004595,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,371,532
+200,10.1063/5.0004595,green,green,0.625,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,30,none,4,N,371,532
+201,10.1039/c9ra09019c,blue-green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,conventional heating,water,neutral,373.15,240,centrifuge,3.5,N,368,515
+202,10.1039/c9tc01629e,blue-green,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,"filter, dialysis",2,N,363,470
+203,10.1021/acs.chemmater.7b04446,blue-green,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,centrifuge,4,N,370,443
+204,10.1021/acs.chemmater.7b04446,blue-green,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",4,N,370,448
+205,10.1021/acs.chemmater.7b04446,blue-green,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",4,N,370,444
+206,10.1021/acs.chemmater.7b04446,blue-green,blue,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",4,N,370,448
+207,10.1021/acs.chemmater.7b04446,blue-green,blue-green,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",4,N,370,447
+208,10.1021/acs.chemmater.7b04446,blue-green,blue-green,0.333333333,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",4,N,370,448
+209,10.1016/j.saa.2019.117924,blue,blue,1,0,0,0,0,0,0,0,0,0,pyrolysis,none,acidic,473.15,30,dialysis,5.6,Y,370,446
+210,10.1039/c6cp08889a,blue-green,blue-green,1,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",16,Y,311,514
+211,10.1016/j.jlumin.2016.01.036,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"centrifuge, wash",4.7,N,334,450
+212,10.1039/c8ay02660b,green,green,0.5,1,0,0,0,0,0,0,0,0,oven,none,neutral,473.15,35,"filter, chromatography ",4,N,375,524
+213,10.3390/molecules24020344,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,480,"centrifuge, wash",5,Y,285,456
+214,10.3390/molecules24020344,blue,blue,0.333333333,0,0,0,0,0,0,0,1,0,hydrothermal treatment,water,basic,453.15,480,"centrifuge, wash",5,N,370,455
+215,10.1007/s00604-019-3933-4,red,green,0.208333333,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,453.15,480,"filter, centrifuge",2.25,Y,397,606
+216,10.1016/j.ceramint.2019.05.299,blue,blue,0.625,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,600,none,3.5,N,340,463
+217,10.1016/j.ceramint.2019.05.299,green,blue-green,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,ethanol,neutral,433.15,360,none,3.5,N,395,530
+218,10.1016/j.ceramint.2019.05.299,yellow,blue-green,0.625,1,0,0,0,0,0,0,0,0,solvothermal treatment,ethanol,neutral,453.15,600,none,3.5,N,395,562
+219,10.1016/j.ceramint.2019.05.299,orange,red,0.15625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,none,3.5,N,447,623
+220,10.1016/j.ceramint.2019.05.299,red,red,0.625,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,453.15,600,none,3.5,N,447,654
+221,10.1039/c5cp04942c,blue,blue,0.364963504,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,480,"filter, dialysis",2.7,N,370,440
+222,10.1039/C4RA07467J,blue,blue,1,0.166666667,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"filter, chromatography ",4,N,370,420
+223,10.1039/C4RA07467J,blue,blue,0.666666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"filter, chromatography ",4,N,370,420
+224,10.1039/C4RA07467J,blue,blue,0.166666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"filter, chromatography ",8.5,N,340,425
+225,10.1039/c5ay03088a,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,precipitate,2.4,N,288,440
+226,10.1039/c6nh00010j,green,green,0.5,0.5,0,0,0,0,0,0,0,1,microwave,water,acidic,473.15,5,centrifuge,0.7,N,390,520
+227,10.1039/c6nh00010j,blue,blue,0.05,0.05,0,0,0,0,0,0,0,1,microwave,water,acidic,473.15,5,centrifuge,2.5,N,390,438
+228,10.1016/j.msec.2017.05.049,blue,blue,0.333333333,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,600,dialysis,12,N,255,443
+229,10.1039/c5ra18176c,blue,blue,0.166666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"centrifuge, dialysis",5.23,Y,293,445
+230,10.1039/c5ra18176c,blue,blue,1,0.166666667,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"centrifuge, dialysis",4,N,370,467
+231,10.1039/c5ra18176c,blue,blue,1,0.666666667,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"centrifuge, dialysis",4,N,370,461
+232,10.1039/c5ra18176c,blue,blue,1,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"centrifuge, dialysis",4,N,370,475
+233,10.1039/c5ra18176c,blue,blue,0.666666667,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"centrifuge, dialysis",4,N,370,465
+234,10.1039/C6RA20562C,blue-green,blue,1,0,0.273972603,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,360,dialysis,1.87,N,289.5,437
+235,10.1039/C6RA20562C,blue,blue,0.073,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,360,dialysis,1.44,N,293.5,437
+236,10.1002/anie.201300519,blue,blue,1,0,0.917431193,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,300,dialysis,4,N,292,450
+237,10.1002/anie.201300519,blue,blue,1,0,0.917431193,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,dialysis,4,N,292,450
+238,10.1002/anie.201300519,blue,blue,1,0,0.917431193,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,523.15,300,dialysis,4,N,292,450
+239,10.1002/anie.201300519,blue,blue,1,0,0.917431193,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,573.15,300,dialysis,4,N,292,450
+240,10.1039/c5ra27172j,green,green,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,240,column,2.6,N,375,530
+241,10.1039/c2cc33869f ,blue,blue,0.5,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,"dialysis, wash",2.6,N,300,460
+242,10.1016/j.bios.2014.02.061,green,blue,1,0,0,0,0,2.4,0,0,0,0,conventional heating,none,basic,473.15,30,none,4.2,Y,360,458
+243,10.1039/c2cc33869f ,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,water,acidic,473.15,3,"dialysis, wash",4.2,N,280.5,443
+244,10.1002/anie.201301114,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,180,none,7,Y,300,435
+245,10.1039/C6NR02701F,blue,blue,1,0,0,0,0,0,0,0,0,0,pyrolysis,none,acidic,443.15,90,"filter, centrifuge",12,N,200,464
+246,10.1021/acs.chemmater.6b03695,red,red,1,0,0,0,0,0,0,0,0,0,microwave-assisted solvothermal,formamide,acidic,413.15,120,filter,4,Y,453.5,632
+247,10.1039/C6RA20562C,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,433.15,360,dialysis,1.62,N,245,415
+248,10.1007/s12274-019-2569-3,blue,blue,1,0,0,0,0,0,0,0,0,0,solvothermal treatment,ethanol,acidic,473.15,420,"filter, dialysis",4.2,N,350,440
+249,10.1016/j.snb.2018.09.031,blue,blue,1,0,0,0,0,0,0,0,0,0,solvothermal treatment,"ethanol, formamide",acidic,423.15,300,centrifuge,4.5,Y,435,450
+250,10.1016/j.snb.2018.09.031,blue,blue,1,0,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,acidic,423.15,301,centrifuge,5.5,Y,350,451
+251,10.1117/12.2523309,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,120,centrifuge,10,N,355,454
+252,10.1021/acs.jpcc.6b12519,blue,blue,1,0,0.909090909,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,centrifuge,4.2,N,340,440
+253,10.1039/c6cp05813b,blue,blue,0.333333333,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,1440,centrifuge,4.4,N,340,437
+254,10.1117/12.2521286,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,120,none,4.2,N,350,450
+255,10.1246/bcsj.20180095,blue,blue,0.909090909,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,"filter, dialysis",5,N,350,457
+256,10.1007/s10953-016-0531-5,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,60,"filter, dialysis",2.7,N,340,453
+257,10.1007/s10953-016-0531-5,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,120,"filter, dialysis",1.9,N,340,475
+258,10.1007/s10953-016-0531-5,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,240,"filter, dialysis",1.8,N,340,479
+259,10.1002/mrc.4985,blue,blue,0.988875155,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,dialysis,7.8,N,350,454
+260,10.1063/1.4979777,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,300,dialysis,4.5,N,350,445
+261,10.1109/JSEN.2019.2949581,blue,blue,0.396825397,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,448.15,283,centrifuge,7.5,N,345,435
+262,10.1039/c3ra43826k,blue,blue,0.694444444,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,"filter, dialysis",4.2,N,346,449
+263,10.1016/j.optmat.2017.08.032,blue,blue,1,0,0.5,0,0,0,0,0,0,0,microwave-assisted hydrothermal,water,neutral,453.15,8,filter,6.06,N,350,441
+264,10.1016/j.chemphys.2019.110503,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,acidic,473.15,480,"wash, centrifuge,  filter, dialysis",7.5,Y,350,480
+265,10.1016/j.chemphys.2019.110503,blue,blue,0.25,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,120,dialysis,4.2,N,348,440
+266,10.1016/j.matlet.2020.127595,blue,blue,0.5,0,1,0,0,0,0,0,0,0,microwave,glycerol,neutral,473.15,7,"centrifuge, dialysis, wash",5,Y,346,480
+267,10.1080/10584587.2017.1369322,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,600,dialysis,6.7,N,350,464
+268,10.1016/j.molliq.2017.06.106,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,360,none,17,N,400,491
+269,10.1371/journal.pone.0216230,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,720,dialysis,10,N,350,433
+270,10.1371/journal.pone.0216230,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,720,dialysis,10,N,350,441
+271,10.1371/journal.pone.0216230,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,720,dialysis,13,N,350,444
+272,10.1371/journal.pone.0216230,blue,blue,0.333333333,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,720,dialysis,15,Y,350,445
+273,10.1021/acs.nanolett.7b03863,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,30,dialysis,4.2,N,250,443
+274,10.1021/acs.nanolett.7b03863,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,60,dialysis,4.2,N,350,444
+275,10.1021/acs.nanolett.7b03863,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,dialysis,4.2,N,350,441
+276,10.1021/acs.nanolett.7b03863,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,dialysis,4.2,Y,350,441
+277,10.1021/acs.nanolett.7b03863,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,dialysis,4.2,Y,350,443
+278,10.1016/j.ijthermalsci.2017.12.034,blue,blue,0.348432056,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,wash,5.8,Y,350,453
+279,10.1080/10826068.2017.1342267,blue,blue,0,0,1,0,0,0,0,0,0,0,oven,water,neutral,453.15,25,dialysis,4.2,N,344,422
+280,10.1016/j.mtchem.2019.01.003,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"wash, centrifuge,  filter, dialysis",5.5,Y,347,477
+281,10.1039/c4ra04264f,blue,blue,1,0,0.666666667,0,0,0,0,0,0,0,oven,water,neutral,373.15,12,dialysis,4.6,N,350,456
+282,10.1039/c6ra02546c,blue,blue,0.273972603,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",3.3,N,350,443
+283,10.1002/chem.201801425,blue,blue,1,0,1,0,0,0,0,0,0,0,microwave,water,neutral,413.15,6,dialysis,1.5,N,350,460
+284,10.1039/c9nr08663c,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,dialysis,4.2,N,345,446
+285,10.1007/s10404-016-1825-z,blue,blue,0.25,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,filter,4.5,Y,340,440
+286,10.1021/acsami.9b15032,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,523.15,300,dialysis,4.5,Y,344,443
+287,10.1021/acs.langmuir.7b02385,red,red,0.198807157,0,1,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,240,"filter, wash, centrifuge",4.1,Y,564,627
+288,10.1021/acs.langmuir.7b02385,red,red,0.066312997,0,1,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,240,"filter, wash, centrifuge",4.2,Y,564,624
+289,10.1021/acs.langmuir.7b02385,red,red,0.132625995,0,1,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,240,"filter, wash, centrifuge",4.2,Y,564,630
+290,10.1021/acs.langmuir.7b02385,red,red,0.265251989,0,1,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,240,"filter, wash, centrifuge",4.2,Y,564,624
+291,10.1021/acsanm.8b00799,red,red,0.5,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,1.5,dialysis,4.05,Y,493,588
+292,10.1002/cphc.201700038,blue,blue,0.069637883,0,1,0,0,0,0,0,0,0,oven,water,neutral,393.15,50,none,3.5,N,332,444
+293,10.1002/cphc.201700038,blue,blue,0.069637883,0,1,0,0,0,0,0,0,0,oven,water,neutral,413.15,50,none,3.4,N,332,443
+294,10.1002/cphc.201700038,blue,blue,0.069637883,0,1,0,0,0,0,0,0,0,oven,water,neutral,433.15,50,none,3,N,332,447
+295,10.1002/cphc.201700038,blue,blue,0.069637883,0,1,0,0,0,0,0,0,0,oven,water,neutral,453.15,50,none,2.2,N,332,450
+296,10.1142/S1793292018500972,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,300,"centrifuge, dialysis",2.8,N,350,458
+297,10.1039/c4tb01035c,blue,blue,0.265251989,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,dialysis,2.5,N,349,455
+298,10.1088/2053-1591/aaba5e,blue,blue,1,0,0.285714286,0,0,0,0,0,0,0,microwave,water,neutral,473.15,9,"filter, dialysis",4.3,N,349,450
+299,10.1021/acs.chemmater.7b04446,blue,blue,0.272479564,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,"filter, centrifuge, dialysis",4.2,N,350,439
+300,10.1016/j.chroma.2013.07.035,blue,blue,1,0,0.666666667,0,0,0,0,0,0,0,microwave,water,neutral,473.15,4,dialysis,3.4,N,350,448
+301,10.3390/ma13030504,blue,blue,0.3125,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,"centrifuge, dialysis",4.2,N,340,460
+302,10.1016/j.carbon.2017.12.004,blue,blue,0.99009901,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,dialysis,7.8,N,350,461
+303,10.1088/0957-4484/26/6/065402,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,180,dialysis,3.7,Y,348,436
+304,10.1016/j.electacta.2019.02.012,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,523.15,300,none,4.2,N,350,448
+305,10.1021/acs.langmuir.7b01992,blue,blue,0.133511348,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, dialysis",3.53,N,350,414
+306,10.1007/s00604-017-2242-z,blue,blue,0.67114094,0,1,0,0,0,0,0,0,0,microwave,water,neutral,413.15,15,"filter, dialysis",4.5,N,345,445
+307,10.1021/jacs.8b06051,blue,blue,1,0,1,0,0,0,0,0,0,0,microwave,water,neutral,413.15,3,"filter, dialysis",1.3,N,350,445
+308,10.3390/molecules25102320,blue,blue,0.666666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,448.15,240,filter,4.2,N,340,447
+309,10.1155/2019/8724320,blue,blue,0.333333333,0,1,0,0,0,0,0,0,0,oven,water,neutral,433.15,240,"centrifuge, wash",4.05,Y,350,460
+310,10.1021/acsomega.7b00551,blue,blue,1,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,10,none,4.2,N,353,462
+311,10.1038/s41598-019-50922-6,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,503
+312,10.1038/s41598-019-50922-6,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,501
+313,10.1038/s41598-019-50922-6,blue,blue,0.666666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,499
+314,10.1038/s41598-019-50922-6,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,497
+315,10.1038/s41598-019-50922-6,blue,blue,0.333333333,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,491
+316,10.1038/s41598-019-50922-6,blue,blue,0.25,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,489
+317,10.1038/s41598-019-50922-6,blue,blue,0.166666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,180,centrifuge,4.2,N,340,487
+318,10.1002/adfm.201910530,blue,blue,0.333333333,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,480,dialysis,2,N,340,443
+319,10.1002/adfm.201910530,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,480,dialysis,4.2,N,340,449
+320,10.1007/s12274-015-0786-y,blue,blue,1,0,0.92,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,none,6,N,340,440
+321,10.1007/s00604-018-2999-8,blue,blue,0.125,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,439
+322,10.1007/s00604-018-2999-8,blue,blue,0.25,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,437
+323,10.1007/s00604-018-2999-8,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,438
+324,10.1007/s00604-018-2999-8,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,427
+325,10.1007/s00604-018-2999-8,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,467
+326,10.1007/s00604-018-2999-8,blue,blue,1,0,0.25,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4.2,N,350,454
+327,10.1007/s00604-018-2999-8,blue,blue,1,0,0.125,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,300,"filter, dialysis",4,N,350,448
+328,10.1016/J.ENG.2017.03.014,blue,blue,0.231481481,0,1,0,0,0,0,0,0,0,oven,water,neutral,423.15,300,none,3,Y,350,450
+329,10.1088/2053-1591/ab3006,blue,blue,0.434782609,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,600,dialysis,5,Y,350,441
+330,10.1021/acssensors.9b00886,multicolor,multicolor,0.198412698,0,1,0,0,0,0,0,0,0,solvothermal treatment,"water, formamide ",neutral,453.15,480,none,4,N,350,440
+331,10.1016/j.saa.2018.07.082,blue,blue,0.694444444,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,120,dialysis,6,N,350,465
+332,10.1039/d0ra09403j,blue,blue,1,0,0,0,0,0,0,0,0,0,pyrolysis,water,neutral,573.15,120,dialysis,4,N,226,438
+333,10.1039/d0ra09403j,blue,blue,1,0,0,0,0,0,0.43,0,0,0,pyrolysis,water,acidic,573.15,120,dialysis,8.63,N,228,440
+334,10.1039/d0ra09403j,blue,blue,1,0,0,0,0,0,0.43,0,0,0,microwave,water,acidic,473.15,120,dialysis,2.33,N,223,449
+335,10.1021/acsomega.1c00765,blue,blue,0.367647059,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,7,"filter, dialysis",2.8,N,245,450
+336,10.1039/d1nr04301c,blue,blue,0.364963504,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,480,centrifuge,3.9,Y,237,450
+337,10.1088/1742-6596/1461/1/012008,blue,blue,0.166666667,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,none,2.5,N,350,470
+338,10.1039/D1NA00286D,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,filter,2,N,475,691
+339,10.1016/j.mtcomm.2020.100975,blue,blue,0.000107331,0.343136203,0,0,0,0,1,0,0,0,microwave,water,acidic,473.15,5,"filter, centrifuge",2,N,335,437
+340,10.1016/j.mtcomm.2020.100975,blue,blue,8.04959E-05,0.257345247,0,0,0,0,1,0,0,0,microwave,water,acidic,473.15,5,"filter, centrifuge",2,N,335,435
+341,10.1016/j.mtcomm.2020.100975,blue,blue,0.000312793,1,0,0,0,0,0.971223022,0,0,0,microwave,water,acidic,473.15,5,"filter, centrifuge",2,N,295,450
+342,10.1016/j.mtcomm.2020.100975,blue,blue,0.000312793,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",9.83,N,350,411
+343,10.1063/5.0042251,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,453.15,540,"centrifuge, dialysis",3.2,N,410,445
+344,10.1016/j.cej.2020.124654,blue,blue,0.367647059,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,300,centrifuge,3,N,308,456
+345,10.3390/nano10061063,blue,blue,0.367647059,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,360,dialysis,7,N,350,450
+346,10.1016/j.optmat.2017.08.032,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,2,filter,4.48,N,350,442
+347,10.1016/j.optmat.2017.08.032,blue,blue,0.666666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,5,filter,5.84,N,350,442
+348,10.1016/j.optmat.2017.08.032,blue,blue,0.4,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,5,filter,6.06,N,350,442
+349,10.1016/j.optmat.2017.08.032,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,483.15,5,filter,6.83,N,350,442
+350,10.1016/j.optmat.2017.08.032,blue,blue,0.666666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,483.15,8,filter,4.05,N,350,442
+351,10.1002/adma.201705913,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,centrifuge,2.2,Y,540,624
+352,10.1039/c7dt03089d,green,green,0.5,0,1,0,0,0,0,0,0,0,solvothermal treatment,toluene,neutral,473.15,720,column,4,Y,500,515
+353,10.1039/c7dt03089d,blue,blue,0.5,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,720,column,3,Y,300,448
+354,10.1038/s41377-018-0090-1,red,red,0.104275287,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMSO,neutral,433.15,240,centrifuge,2,Y,513,720
+355,10.1039/c9nj03874d,green,green,1,1,0,0,0,0,0,0,0,0,solvothermal treatment,ethanol,neutral,473.15,180,chromatography ,3.9,N,400,515
+356,10.1515/nanoph-2020-0233,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,240,centrifuge,4,Y,455,654
+357,10.1007/s12161-020-01700-y,blue,blue,0.25,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,270,dialysis,1.5,N,295,440
+358,10.1016/j.carbon.2020.11.030,green,green,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,240,"centrifuge, chromatography ",7,N,475,539
+359,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,240,"filter, dialysis",7,Y,350,443
+360,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,433.15,240,"filter, dialysis",7,Y,350,440
+361,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,240,"filter, dialysis",7,Y,350,450
+362,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,493.15,240,"filter, dialysis",7,Y,350,443
+363,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,120,"filter, dialysis",7,Y,350,447
+364,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,446
+365,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,480,"filter, dialysis",7,Y,350,443
+366,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,600,"filter, dialysis",7,Y,350,441
+367,10.1080/00150193.2020.1762435,blue,blue,1,0.14,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,427
+368,10.1080/00150193.2020.1762435,blue,blue,1,0.43,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,445
+369,10.1080/00150193.2020.1762435,blue,blue,1,0.57,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,445
+370,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,445
+371,10.1080/00150193.2020.1762435,blue,blue,1,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,449
+372,10.1080/00150193.2020.1762435,blue,blue,0.775193798,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,470
+373,10.1080/00150193.2020.1762435,blue,blue,0.699300699,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",3.25,Y,350,471
+374,10.1016/j.talanta.2019.120538,blue,blue,0.367647059,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,18,"centrifuge, dialysis",2.4,N,300,447
+375,10.1016/j.talanta.2019.120538,blue,blue,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,12,"centrifuge, dialysis",4,N,300,434
+376,10.1002/advs.201903525,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,480,column,4,Y,500,634
+377,10.1002/advs.201903525,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DEF,neutral,433.15,480,column,5,Y,500,642
+378,10.1134/S0022476620050182,red,red,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,basic,453.15,540,"centrifuge, dialysis",5,N,230,585
+379,10.1134/S0022476620050182,red,red,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,basic,453.15,720,"centrifuge, dialysis",5,N,230,593
+380,10.1039/d0ra09403j,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,120,dialysis,9.35,N,229,409
+381,10.1039/d1nr04301c,blue,blue,1,0,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,480,centrifuge,2.5,Y,253,440
+382,10.1021/acsanm.0c02547,blue,blue,1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,503.15,300,none,4,Y,350,446
+383,10.1016/j.mtcomm.2020.100975,blue,blue,0.000104254,1,0,0,0,0,0.323707256,0,0,0,microwave,water,acidic,473.15,5,"filter, centrifuge",2,N,295,455
+384,10.1016/j.mtcomm.2020.100975,blue,blue-green,1,0,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",2,N,350,462
+385,10.1039/D0NJ01804J,blue,blue,0.178571429,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"centrifuge, dialysis",4,Y,328,426
+386,10.3390/nano10061063,blue,multicolor,0.3125,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,dialysis,4.15,N,443,470
+387,10.1016/j.optmat.2017.08.032,blue,blue,0.4,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,8,filter,4.16,N,350,442
+388,10.1016/j.optmat.2017.08.032,blue,blue,0.666666667,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,2,filter,5.37,N,350,442
+389,10.1016/j.optmat.2017.08.032,blue,blue,1,0,0.5,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,8,filter,4.23,N,298,442
+390,10.1016/j.optmat.2017.08.032,blue,blue,0.4,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,483.15,2,filter,5.33,N,350,442
+391,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,240,"filter, dialysis",7,Y,350,440
+392,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,513.15,240,"filter, dialysis",7,Y,350,458
+393,10.1080/00150193.2020.1762435,blue,blue,1,0.72,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,240,"filter, dialysis",7,Y,350,449
+394,10.1080/00150193.2020.1762435,blue,blue,1,0.29,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,427
+395,10.1080/00150193.2020.1762435,blue,blue,1,0.86,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,448
+396,10.1080/00150193.2020.1762435,blue,blue,0.877192982,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,473.15,360,"filter, dialysis",7,Y,350,552
+397,10.1039/D1TB00371B,blue,blue,0.247524752,0,0.633663366,0,0,0,1,0,0,0,hydrothermal treatment,water,acidic,453.15,720,"centrifuge, dialysis",4.5,Y,295,433
+398,10.1039/D1TB00371B,blue,blue,0.390625,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,453.15,720,"centrifuge, dialysis",10,Y,295,462
+399,10.1007/s40097-021-00431-8,blue,blue,1,0,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,473.15,10,"filter, dialysis",4,N,315,465
+400,10.1039/D0EE02235G,green,green,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,"centrifuge, dialysis",4,N,350,522
+401,10.1021/acsabm.1c00006,green,green,0.031279324,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,centrifuge,5,Y,333,513
+402,10.1016/j.jallcom.2021.159819,green,green,0.15600624,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,433.15,360,centrifuge,7,N,278,532
+403,10.3390/chemosensors9030052,green,blue-green,0.3125,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,5,"filter, centrifuge",4,N,339,524
+404,10.1002/adom.201901938,green,green,0.3125,1,0,0,0,1.5,0,0,0,0,microwave,water,basic,473.15,3,centrifuge,3.8,Y,385,518
+405,10.1021/acsanm.8b00799,red,red,0.5,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,dialysis,6,Y,500,609
+406,10.1134/S0022476620050182,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,basic,453.15,720,"centrifuge, dialysis",6,N,230,595
+407,10.1007/s00339-020-3351-9,red,red,0.156494523,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,453.15,360,centrifuge,4,Y,550,634
+408,experimental-Xiaoxiao,blue,blue-green,0.2,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,filter,NA,NA,NA,442
+409,experimental-Xiaoxiao,green,green,0.4,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,423.15,60,filter,NA,NA,NA,534
+410,experimental-Xiaoxiao,blue,blue,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,423.15,60,none,NA,NA,NA,458
+411,experimental-Xiaoxiao,green,green,0.2,1,0,0,0,0,0,0,0,0,microwave,formamide,neutral,473.15,0.833333,centrifuge,NA,NA,NA,538
+412,experimental-Xiaoxiao,blue,multicolor,0.1,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,423.15,60,centrifuge,NA,NA,NA,430
+413,experimental-Xiaoxiao,blue,blue,0.5,1,0,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,60,centrifuge,NA,NA,NA,442
+414,experimental-Xiaoxiao,blue,blue-green,0.7,1,0,0,0,0,0,0,0,0,microwave,water,neutral,473.15,3,filter,NA,NA,NA,444
+415,experimental-Xiaoxiao,blue,blue,0.2,0,1,0,0,0,0,0,0,0,solvothermal treatment,formamide,neutral,423.15,60,dialysis,NA,NA,NA,446
+416,experimental-Xiaoxiao,blue,blue,0.6,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,60,filter,NA,NA,NA,448
+417,experimental-Xiaoxiao,blue,blue,0.7,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,423.15,60,dialysis,NA,NA,NA,448
+418,experimental-Xiaoxiao,blue,blue,0.2,0,1,0,0,0,0,0,0,0,microwave-assisted hydrothermal,water,neutral,423.15,60,centrifuge,NA,NA,NA,448
+419,experimental-Xiaoxiao,blue,blue,0.4,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,dialysis,NA,NA,NA,462
+420,experimental-Xiaoxiao,blue,blue,0.1,0,1,0,0,0,0,0,0,0,microwave-assisted solvothermal,formamide,neutral,423.15,60,none,NA,NA,NA,462
+421,experimental-Xiaoxiao,blue,blue,1,0,0,0,0,0,0,0,0,0,microwave,formamide,acidic,473.15,0.833333,filter,NA,NA,NA,478
+422,experimental-Xiaoxiao,blue,blue,0.266666667,0.333333333,0,0,0,1,0,0,0,0,hydrothermal treatment,water,basic,423.15,60,none,NA,NA,NA,442
+423,experimental-Xiaoxiao,green,green,0.9,1,0,0,0,0,0,0,0,0,pyrolysis,none,neutral,423.15,60,centrifuge,NA,NA,NA,520
