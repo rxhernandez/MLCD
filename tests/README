@@ -1,0 +1,9 @@
+For M1 only we have given the scripts that give the predictions with and without the reaction temperature and time features.
+For M2 and M3 we have given the scripts only including the reaction temperature and time due to repetitiveness of the scripts.
+
+
+For M2, the database includes the actual color extracted from the experimental papers as the feature color. And then for the prediction of the test1-3, the predicted colors from the classification model(with or without the feature temperature and time) were used. 
+
+For M3, the database includes only the predicted colors predicted from the classification models. Because in M3 for both training and testing we used the predicted colors and not the actual colors as in M2. 
+
+
